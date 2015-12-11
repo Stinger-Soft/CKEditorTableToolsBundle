@@ -1,6 +1,6 @@
 <?php
 
-namespace Stinger\CKEditorSaveBundle;
+namespace Stinger\CKEditorTableToolsBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

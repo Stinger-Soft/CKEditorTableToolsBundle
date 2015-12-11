@@ -1,7 +1,3 @@
-# CKEditorTableToolsBundle
-Bundle for the CK Editor Table Tools Plugin
-
-
 # CKEditor plugin Table Tools Bundle for Symfony2
 Symfony2 Bundle to integrate the CKEditor plugin Table Tools
 
